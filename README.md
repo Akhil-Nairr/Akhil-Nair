@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/_akhilnair" target="blank"><img src="https://img.shields.io/twitter/follow/_akhilnair?logo=twitter&style=for-the-badge" alt="_akhilnair" /></a> </p>
 
-- 🔭 I’m currently working on **SQL Data Analysis and Visualization with Power BI for FDA**
+- 🔭 I’m currently working on **Machine Learning**
 
 - 🌱 I’m currently learning **Python , SQL, ML**
 
