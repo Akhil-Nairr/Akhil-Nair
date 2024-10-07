@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/_akhilnair" target="blank"><img src="https://img.shields.io/twitter/follow/_akhilnair?logo=twitter&style=for-the-badge" alt="_akhilnair" /></a> </p>
 
-- 🔭 I’m currently working on **Python Project**
+- 🔭 I’m currently working on **EDA WEB APP**
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **SQL, PowerBI, Excel, Tableau,Python**
+- 💬 Ask me about **SQL, PowerBI, Excel,Python, Salesforce**
 
 - 📫 How to reach me **akhil.nair1200@gmail.com**
 
