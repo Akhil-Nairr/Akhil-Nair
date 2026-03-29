@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">Hi 👋, I'm Akhil Nair</h1>
-<h3 align="center">A passionate Data Analyst/Business Analyst from India</h3>
+<h3 align="center">A passionate Data Engineer from India</h3>
 <img align=“right” width=“500” src=“https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhil-nairr&label=Profile%20views&color=0e75b6&style=flat" alt="akhil-nairr" /> </p>
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **SQL, PowerBI, Excel,Python, Salesforce**
+- 💬 Ask me about **SQL, PowerBI, Excel,Python, Salesforce, BigQuery, GCP, Automations , ETL/ELT ,**
 
 - 📫 How to reach me **akhil.nair1200@gmail.com**
 
